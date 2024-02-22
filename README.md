@@ -21,7 +21,6 @@ Above is the link to the Kaggle page where the whole code is executed.
 - **Analysis:** Conducts a succinct analysis of model behavior and performance, highlighting key findings and challenges faced.
 - **Discussion:** Engages in a brief discussion, addressing broader implications, limitations, and potential future work inspired by the project.
 - **Conclusion:** Summarizes the notebook's contributions, emphasizing its impact on breast cancer classification. Offers concise recommendations for future research and development.
-
   
 ## Dataset
 The Dataset that is going to be used for training and testing for the image classification model will be the Breast Histopathology Images dataset.
@@ -33,3 +32,8 @@ However, the website is not accessible as of now, thus we are using the dataset 
 In this dataset, it consists a total of 277,524 patches of images sized 50 x 50, which was broken down from 162 whole mount images. 
 Within these patches, there are 198, 738 IDC negative and 78,786 IDC positive.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for more details.
+
+## Contact
+For any enquiries, you may contact me at sitinursarahb@gmail.com
